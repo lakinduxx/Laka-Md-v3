@@ -4,7 +4,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "𝐋ᴀᴋᴀ-𝐌ᴅ=h4oxHLBb#8NYX0dlkNnNeXqOM7bKiEA8oEVjLOz6GbVJ7Y050GY8",
+  SESSION_ID: process.env.SESSION_ID || "𝐋ᴀᴋᴀ-𝐌ᴅ=lgJxzYSS#yGvS2pafT975MkS8Zqnjrv4Phd_aiFQuNnsq-iJR6m8",
   POSTGRESQL_URL: process.env.POSTGRESQL_URL || "your-db-url",
   AUTO_REPLY: false,
   AUTO_AUDIO_REPLY: true,
